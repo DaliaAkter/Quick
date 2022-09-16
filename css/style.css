@@ -182,7 +182,7 @@ footer{
     text-align: center;
     color: white;
 }
-.footer_content p span{
+.footer_content p a{
     color: white;
     text-decoration: none;
 }
